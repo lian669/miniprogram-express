@@ -1,0 +1,9 @@
+project.private.config.json
+project.config.json.bak
+*.log
+
+# node_modules（如果你用了 npm）
+node_modules/
+
+# 编译缓存
+miniprogram_npm/

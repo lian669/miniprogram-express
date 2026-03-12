@@ -1,0 +1,5 @@
+<!-- index.wxml -->
+<view class="container">
+  <text class="title">📦 欢迎使用小区快递代拿</text>
+  <button type="primary" bindtap="handleTakeOrder">发布代拿任务</button>
+</view>
